@@ -2,22 +2,38 @@
     background-color: #000080;
     color: #f2f2f2;
     width: 950px;
+    padding: 10px;
 }
 .header{
     background-color: #e60000;
-    height: 150px;
+    height: 40px;
+    border-radius: 25px;
+    margin:10px;
+}
+h1{
+     margin: 20px; 
 }
 .nav{
     background-color: #009999;
     height: 300px;
     width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 25px;
+    margin:10px;
 }
 .main{
     background-color: black;
     width: 650px;
+    display: inline-block;
+    border-radius: 25px;
+    margin:10px;
 }
 .footer{
     background-color: gray;
+    height: 75px;
+    border-radius: 25px;
+    margin:10px;
 }
 span{
     color: #3333cc;
