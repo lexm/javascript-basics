@@ -11,7 +11,7 @@
     margin:10px;
 }
 h1{
-     margin: 20px; 
+    margin: 20px; 
 }
 .nav{
     background-color: #009999;
@@ -20,20 +20,24 @@ h1{
     display: inline-block;
     vertical-align: top;
     border-radius: 25px;
-    margin:10px;
+    margin: 10px;
 }
 .main{
     background-color: black;
     width: 650px;
     display: inline-block;
     border-radius: 25px;
-    margin:10px;
+    margin: 10px;
+    padding: 10px;
 }
 .footer{
     background-color: gray;
-    height: 75px;
+    height: 20px;
     border-radius: 25px;
-    margin:10px;
+    margin: 10px;
+}
+.footer p{
+    margin: 20px;
 }
 span{
     color: #3333cc;
