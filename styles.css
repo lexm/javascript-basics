@@ -5,3 +5,18 @@
 .header{
     background-color: #e60000;
 }
+.nav{
+    background-color: #009999;
+}
+.main{
+    background-color: black;
+}
+.footer{
+    background-color: gray;
+}
+span{
+    color: #3333cc;
+}
+/* a{
+    color:
+} */
