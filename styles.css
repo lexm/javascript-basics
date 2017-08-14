@@ -21,6 +21,10 @@ h1{
     vertical-align: top;
     border-radius: 25px;
     margin: 10px;
+    padding: 10px;
+}
+.nav p{
+    padding-left: 20px;
 }
 .main{
     background-color: black;
@@ -28,7 +32,7 @@ h1{
     display: inline-block;
     border-radius: 25px;
     margin: 10px;
-    padding: 10px;
+    padding: 17px;
 }
 .footer{
     background-color: gray;
